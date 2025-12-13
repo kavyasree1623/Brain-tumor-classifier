@@ -29,12 +29,3 @@ CNN-based deep learning model trained on MRI images.
 
 👤 Author
 G.Kavya Sree
-
----
-
-## 8️⃣ Upload project to GitHub (COMMANDS)
-
-### A. Open terminal in project folder
-- Windows: Shift + Right click → **Open Command Prompt**
-- Or:
-cd path/to/brain-tumor-classifier
