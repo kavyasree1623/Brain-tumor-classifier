@@ -12,7 +12,7 @@ data/ (not included)
 ## 🚀 How to Run
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/brain-tumor-classifier.git
+git clone https://github.com/kavyasree1623/Brain-tumor-classifier.git
 Install dependencies
 
 pip install -r requirements.txt
