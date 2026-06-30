@@ -27,5 +27,6 @@ Use any brain tumor MRI dataset (e.g. Kaggle).
 🧠 Model
 CNN-based deep learning model trained on MRI images.
 
+
 👤 Author
 G.Kavya Sree
